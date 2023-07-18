@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FlipperMemory/static/css/main.2a8bf666.css",
+    "main.js": "/FlipperMemory/static/js/main.66361ff0.js",
+    "static/media/Flower6.jpg": "/FlipperMemory/static/media/Flower6.ec3a204db78f8532f6c2.jpg",
+    "static/media/EducativeIcon.png": "/FlipperMemory/static/media/EducativeIcon.fa38c16ae6bce5c14e0a.png",
+    "static/media/Flower3.jpg": "/FlipperMemory/static/media/Flower3.54a3d867ce083135ee70.jpg",
+    "static/media/Flower2.jpg": "/FlipperMemory/static/media/Flower2.1cdd8623d5a0aa6d481c.jpg",
+    "static/media/Flower4.jpg": "/FlipperMemory/static/media/Flower4.b2e99011868b15ae8aef.jpg",
+    "static/media/Flower1.jpg": "/FlipperMemory/static/media/Flower1.d52d23da99dbe27da1a8.jpg",
+    "static/media/Flower5.jpg": "/FlipperMemory/static/media/Flower5.220ffa23fee885eb5836.jpg",
+    "index.html": "/FlipperMemory/index.html",
+    "main.2a8bf666.css.map": "/FlipperMemory/static/css/main.2a8bf666.css.map",
+    "main.66361ff0.js.map": "/FlipperMemory/static/js/main.66361ff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8bf666.css",
+    "static/js/main.66361ff0.js"
+  ]
+}
